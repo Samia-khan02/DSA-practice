@@ -11,6 +11,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 - Strings
 - Two Pointers
 - Hash Maps
+- stack
 
 ## Current Goal
 - Reach 50 solved problems
