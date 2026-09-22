@@ -39,4 +39,8 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samia-khan02/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Samia-khan02/DSA-practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
