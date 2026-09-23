@@ -44,6 +44,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Samia-khan02/DSA-practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0009-palindrome-number) |
 ## Binary Search
 |  |
 | ------- |
