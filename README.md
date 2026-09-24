@@ -55,6 +55,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Samia-khan02/DSA-practice/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/Samia-khan02/DSA-practice/tree/master/0595-big-countries) |
 | [1683-invalid-tweets](https://github.com/Samia-khan02/DSA-practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Samia-khan02/DSA-practice/tree/master/1757-recyclable-and-low-fat-products) |
