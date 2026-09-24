@@ -52,4 +52,8 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Samia-khan02/DSA-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
