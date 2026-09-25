@@ -58,6 +58,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0175-combine-two-tables](https://github.com/Samia-khan02/DSA-practice/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Samia-khan02/DSA-practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Samia-khan02/DSA-practice/tree/master/0183-customers-who-never-order) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Samia-khan02/DSA-practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Samia-khan02/DSA-practice/tree/master/0595-big-countries) |
 | [1683-invalid-tweets](https://github.com/Samia-khan02/DSA-practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Samia-khan02/DSA-practice/tree/master/1757-recyclable-and-low-fat-products) |
