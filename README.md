@@ -41,6 +41,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samia-khan02/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Samia-khan02/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
 |  |
@@ -62,4 +63,8 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0595-big-countries](https://github.com/Samia-khan02/DSA-practice/tree/master/0595-big-countries) |
 | [1683-invalid-tweets](https://github.com/Samia-khan02/DSA-practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Samia-khan02/DSA-practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
