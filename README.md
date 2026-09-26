@@ -41,6 +41,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samia-khan02/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Samia-khan02/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Samia-khan02/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
@@ -66,5 +67,6 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Samia-khan02/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
