@@ -23,6 +23,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Samia-khan02/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Samia-khan02/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samia-khan02/DSA-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
