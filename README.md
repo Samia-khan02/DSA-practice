@@ -23,6 +23,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Samia-khan02/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Samia-khan02/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
@@ -50,6 +51,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | ------- |
 | [0007-reverse-integer](https://github.com/Samia-khan02/DSA-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
@@ -70,4 +72,24 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | ------- |
 | [0125-valid-palindrome](https://github.com/Samia-khan02/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
