@@ -53,6 +53,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0009-palindrome-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,4 +93,16 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
