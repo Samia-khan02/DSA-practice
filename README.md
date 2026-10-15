@@ -53,12 +53,14 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0007-reverse-integer](https://github.com/Samia-khan02/DSA-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/Samia-khan02/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0509-fibonacci-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Samia-khan02/DSA-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Samia-khan02/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
 ## Database
 |  |
