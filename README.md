@@ -23,6 +23,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Samia-khan02/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Samia-khan02/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -52,6 +53,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | ------- |
 | [0007-reverse-integer](https://github.com/Samia-khan02/DSA-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Samia-khan02/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0507-perfect-number) |
@@ -76,6 +78,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Samia-khan02/DSA-practice/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
 ## Enumeration
 |  |
