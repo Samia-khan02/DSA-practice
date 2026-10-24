@@ -29,6 +29,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0485-max-consecutive-ones](https://github.com/Samia-khan02/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Samia-khan02/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
+| [0733-flood-fill](https://github.com/Samia-khan02/DSA-practice/tree/master/0733-flood-fill) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samia-khan02/DSA-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Samia-khan02/DSA-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sliding Window
@@ -124,4 +125,16 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Samia-khan02/DSA-practice/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Samia-khan02/DSA-practice/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Samia-khan02/DSA-practice/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
