@@ -25,6 +25,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | ------- |
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Samia-khan02/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Samia-khan02/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
@@ -41,6 +42,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samia-khan02/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0009-palindrome-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Samia-khan02/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0509-fibonacci-number) |
@@ -62,6 +65,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Samia-khan02/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
 ## Database
@@ -112,4 +116,12 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
