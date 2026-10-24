@@ -26,6 +26,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Samia-khan02/DSA-practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Samia-khan02/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Samia-khan02/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
@@ -84,6 +85,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | ------- |
 | [0125-valid-palindrome](https://github.com/Samia-khan02/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Samia-khan02/DSA-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
 ## Enumeration
 |  |
