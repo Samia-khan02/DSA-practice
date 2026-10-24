@@ -23,6 +23,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Samia-khan02/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Samia-khan02/DSA-practice/tree/master/0283-move-zeroes) |
