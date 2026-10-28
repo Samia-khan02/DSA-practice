@@ -141,4 +141,8 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Samia-khan02/DSA-practice/tree/master/0733-flood-fill) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
