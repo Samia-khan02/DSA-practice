@@ -116,6 +116,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Samia-khan02/DSA-practice/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -144,5 +145,6 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Samia-khan02/DSA-practice/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
