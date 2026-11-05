@@ -33,6 +33,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Samia-khan02/DSA-practice/tree/master/0733-flood-fill) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samia-khan02/DSA-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Samia-khan02/DSA-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sliding Window
 |  |
@@ -71,6 +72,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Samia-khan02/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Database
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Samia-khan02/DSA-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -130,6 +133,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Depth-First Search
 |  |
 | ------- |
