@@ -1,18 +1,30 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        int n = s.size();
-        for(int i = 0; i < n; i++) {
-            bool found = false;
-            for(int j = 0 ; j < n; j++) {
-                if( i!= j && s[i] == s[j]) {
-                    found = true;
-                    break;
-                }
+        // int n = s.size();
+        // for(int i = 0; i < n; i++) {
+        //     bool found = false;
+        //     for(int j = 0 ; j < n; j++) {
+        //         if( i!= j && s[i] == s[j]) {
+        //             found = true;
+        //             break;
+        //         }
+        //     }
+        //     if(found == false) {
+        //         return i;
+        //     }
+        // }
+        // return -1;
+        unordered_map<char,int>mp;
+        for( auto i : s ){
+            mp[i]++;
+        }
+        int index = 0;
+        for( auto i : s){
+            if( mp[i] == 1){
+                return index;
             }
-            if(found == false) {
-                return i;
-            }
+            index++;
         }
         return -1;
     }
