@@ -99,6 +99,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0203-remove-linked-list-elements](https://github.com/Samia-khan02/DSA-practice/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
