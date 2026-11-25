@@ -25,6 +25,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Samia-khan02/DSA-practice/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Samia-khan02/DSA-practice/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
@@ -129,6 +130,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samia-khan02/DSA-practice/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Samia-khan02/DSA-practice/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
