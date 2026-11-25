@@ -24,6 +24,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Samia-khan02/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
@@ -127,6 +128,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Samia-khan02/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -193,4 +195,8 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Samia-khan02/DSA-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
