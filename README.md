@@ -28,6 +28,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Samia-khan02/DSA-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Samia-khan02/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Samia-khan02/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
@@ -74,6 +75,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Samia-khan02/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -97,6 +99,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Samia-khan02/DSA-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -139,6 +142,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -180,8 +184,13 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Samia-khan02/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Samia-khan02/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/0234-palindrome-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
