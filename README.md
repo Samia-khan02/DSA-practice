@@ -35,6 +35,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0643-maximum-average-subarray-i](https://github.com/Samia-khan02/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Samia-khan02/DSA-practice/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Samia-khan02/DSA-practice/tree/master/0733-flood-fill) |
+| [0905-sort-array-by-parity](https://github.com/Samia-khan02/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samia-khan02/DSA-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Samia-khan02/DSA-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -104,6 +105,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0287-find-the-duplicate-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Samia-khan02/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Samia-khan02/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
@@ -151,6 +153,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/Samia-khan02/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Depth-First Search
 |  |
