@@ -25,6 +25,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Samia-khan02/DSA-practice/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Samia-khan02/DSA-practice/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samia-khan02/DSA-practice/tree/master/0204-count-primes) |
@@ -96,6 +97,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Samia-khan02/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Samia-khan02/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Samia-khan02/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -152,6 +154,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Samia-khan02/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Samia-khan02/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samia-khan02/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
