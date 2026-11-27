@@ -54,6 +54,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0141-linked-list-cycle](https://github.com/Samia-khan02/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Samia-khan02/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Samia-khan02/DSA-practice/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Samia-khan02/DSA-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -61,6 +62,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samia-khan02/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Samia-khan02/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Samia-khan02/DSA-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Samia-khan02/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
@@ -188,6 +190,7 @@ Hello! I'm currently learning Data Structures and Algorithms in C++.
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Samia-khan02/DSA-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samia-khan02/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
