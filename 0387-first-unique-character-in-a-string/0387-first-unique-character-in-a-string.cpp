@@ -16,15 +16,20 @@ public:
         // }
         // return -1;
         unordered_map<char,int>mp;
-        for( auto i : s ){
+        for( auto i : s){
             mp[i]++;
         }
-        int index = 0;
+        // for( int i = 0 ; i<s.size() ; i++){
+        //     if ( mp[s[i]] == 1){
+        //         return i;
+        //     }
+        // }
+        int idx = 0;
         for( auto i : s){
             if( mp[i] == 1){
-                return index;
+                return idx;
             }
-            index++;
+            idx++;
         }
         return -1;
     }
